@@ -28,7 +28,7 @@ BugTrackerV2 is a full-featured bug tracking application I created to log, manag
 
 ## 📸 Screenshots
 
-> *(Add screenshots here once available — use `![Alt text](image-url)` format)*
+> Coming Soon...
 
 ---
 
@@ -44,7 +44,7 @@ BugTrackerV2 is a full-featured bug tracking application I created to log, manag
 
 ## ✨ Live Demo
     
-    Coming Soon
+    Coming Soon...
 
 ---
 
