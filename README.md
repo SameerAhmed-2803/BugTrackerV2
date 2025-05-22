@@ -44,7 +44,7 @@ BugTrackerV2 is a full-featured bug tracking application I created to log, manag
 
 ## ✨ Live Demo
     
-    Coming Soon — or add link if hosted (e.g., Vercel/Render)
+    Coming Soon
 
 ---
 
